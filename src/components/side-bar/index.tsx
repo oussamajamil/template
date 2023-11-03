@@ -1,5 +1,5 @@
-import { useAppContext } from "@/Context";
-import { cn } from "@/utils";
+import { useAppContext } from "../../Context";
+import { cn } from "../../utils";
 import Button from "../button";
 import { useLocation, Link } from "react-router-dom";
 import { HiHome, HiInformationCircle } from "react-icons/hi2";

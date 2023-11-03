@@ -1,4 +1,4 @@
-import { useAppContext } from "@/Context";
+import { useAppContext } from "../../Context";
 import Toggle from "../toggle";
 import { motion, MotionConfig } from "framer-motion";
 import { MdDarkMode, MdLightMode } from "react-icons/md";

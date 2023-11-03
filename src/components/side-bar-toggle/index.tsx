@@ -1,4 +1,4 @@
-import { useAppContext } from "@/Context";
+import { useAppContext } from "../../Context";
 import Toggle from "../toggle";
 import { AiOutlineMenuFold, AiOutlineMenuUnfold } from "react-icons/ai";
 import { motion, MotionConfig } from "framer-motion";
